@@ -25,14 +25,14 @@ Before running the game, make sure to install the necessary Python library:
 ```bash
 pip install playsound
 
-#### Setup
+### Setup
 Clone this repository to your local machine using the command:
 Navigate to the Project Directory, Change into the project directory
 
 Install Dependencies:
 Install the necessary Python libraries as described above.
 
-#### How to Run the Game
+### How to Run the Game
 To run the game, follow these steps:
 
 Start the Game:
