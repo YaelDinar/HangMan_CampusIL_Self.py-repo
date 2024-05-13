@@ -21,13 +21,15 @@ Hangman is a straightforward yet engaging word guessing game where a player trie
 ### Installation of Dependencies
 
 Before running the game, make sure to install the necessary Python library:
+```bash
 pip install playsound
-
+```
 ### Setup
 Clone this repository to your local machine using the command:
 Navigate to the Project Directory, Change into the project directory
+```bash
 cd hangman
-
+```
 Install Dependencies:
 Install the necessary Python libraries as described above.
 
@@ -36,9 +38,9 @@ To run the game, follow these steps:
 
 Start the Game:
 Run the script using Python from the terminal:
-
+```bash
 python hangman.py
-
+```
 Follow On-Screen Prompts:
 The game will guide you through entering the path to a text file containing potential secret words and choosing an index number to select a word.
 
