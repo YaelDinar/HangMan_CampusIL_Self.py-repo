@@ -32,8 +32,7 @@ Navigate to the Project Directory, Change into the project directory
 Install Dependencies:
 Install the necessary Python libraries as described above.
 
-
-##### How to Run the Game
+#### How to Run the Game
 To run the game, follow these steps:
 
 Start the Game:
@@ -43,7 +42,3 @@ python hangman.py
 
 Follow On-Screen Prompts:
 The game will guide you through entering the path to a text file containing potential secret words and choosing an index number to select a word.
-
-
-
-
