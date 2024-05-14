@@ -46,7 +46,7 @@ The game will guide you through entering the path to a text file containing pote
 
 
 ### Description of each file:
-- HangMan 10.py - the main code of the game
+- HangMan.py - the main code of the game
 - HangMan_Words.txt -  the optional words list. it can be modified and you can you other file for words (in the game you enter the words file path so any txt file that is the shape of this file will do).
 - mixkit-bonus-extra-in-a-video-game-2064 - Game Start Sound
 - mixkit-long-game-over-notification-276 - Losing Game Sound
